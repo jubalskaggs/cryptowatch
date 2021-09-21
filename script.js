@@ -1,15 +1,15 @@
 // general config for all charts
 var config = {
-    presetColorScheme: 'albuquerque',
+    presetColorScheme: 'ishihara',
     timePeriod: '30m'
 }
 
 // exchange, currency pair, html element id
 var charts = [
-    ['bitfinex', 'btcusd', 'one'],
-    ['kraken', 'btceur', 'two'],
-    ['okcoin', 'btccny', 'three'],
-    ['okcoin', 'btcusd-quarterly-futures', 'four']
+    ['coinbase-pro', 'btcusd', 'one'],
+    ['coinbase-pro', 'ethusd', 'two'],
+    ['coinbase-pro', 'fetusd', 'three'],
+    ['coinbase-pro', 'shib-usd', 'four']
 ]
 
 // create all charts
