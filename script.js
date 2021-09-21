@@ -9,7 +9,7 @@ var charts = [
     ['coinbase-pro', 'btcusd', 'one'],
     ['coinbase-pro', 'ethusd', 'two'],
     ['coinbase-pro', 'fetusd', 'three'],
-    ['coinbase-pro', 'shib-usd', 'four']
+    ['coinbase-pro', 'shibusd', 'four']
 ]
 
 // create all charts
